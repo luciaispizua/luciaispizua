@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luciaispizua
+- 👀 I’m interested in data analysis!
+- 🌱 I’m currently learning Python and Power BI
+- 📫 How to reach me: via email! ispizua.lu@gmail.com
